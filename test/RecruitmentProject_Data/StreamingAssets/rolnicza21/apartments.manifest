@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.6f1
+CRC: 1657898880
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d2efa494eaeddc6633bf2364456305e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 30b544ec95120797eaedf7186ea19a23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8a7d4a328186e2347eade493969511a8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6e161379e5e42b49bfef51a6c4319c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23c1ce4fb46143f46bc5cb5224c934f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Investments/Rolnicza21/Apartments/A-1-1.unity
+- Assets/Investments/Rolnicza21/Apartments/B-1-3.unity
+- Assets/Investments/Rolnicza21/Apartments/B-0-2.unity
+- Assets/Investments/Rolnicza21/Apartments/C-0-1.unity
+- Assets/Investments/Rolnicza21/Apartments/C-1-2.unity
+- Assets/Investments/Rolnicza21/Apartments/B-2-1.unity
+- Assets/Investments/Rolnicza21/Apartments/A-0-1.unity
+- Assets/Investments/Rolnicza21/Apartments/B-1-1.unity
+- Assets/Investments/Rolnicza21/Apartments/A-1-2.unity
+- Assets/Investments/Rolnicza21/Apartments/B-1-2.unity
+- Assets/Investments/Rolnicza21/Apartments/C-0-3.unity
+- Assets/Investments/Rolnicza21/Apartments/A-0-3.unity
+- Assets/Investments/Rolnicza21/Apartments/A-0-2.unity
+- Assets/Investments/Rolnicza21/Apartments/C-0-2.unity
+- Assets/Investments/Rolnicza21/Apartments/C-1-1.unity
+- Assets/Investments/Rolnicza21/Apartments/A-2-2.unity
+- Assets/Investments/Rolnicza21/Apartments/B-0-1.unity
+- Assets/Investments/Rolnicza21/Apartments/B-1-4.unity
+- Assets/Investments/Rolnicza21/Apartments/A-2-1.unity
+Dependencies: []
