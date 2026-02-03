@@ -52,7 +52,7 @@ public class CameraOrbit : MonoBehaviour
         var radY = _currentAngleY * Mathf.Deg2Rad;
         
         var x = target.position.x + distance * Mathf.Cos(radY) * Mathf.Cos(radX);
-        var y = target.position.y + distance * Mathf.Sin(radY);
+        var y = target.position.y + distance * Mathf.Sin(radY) + 6f;
         var z = target.position.z + distance * Mathf.Cos(radY) * Mathf.Sin(radX);
         
         transform.position = new Vector3(x, y, z);

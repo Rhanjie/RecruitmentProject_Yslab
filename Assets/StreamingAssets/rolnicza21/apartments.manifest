@@ -1,0 +1,111 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.6f1
+CRC: 2539152710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f798afa9620959add79c44767a02604
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d5ea2d5de14807680b78d5d80cffed9f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c26d945a1b85b6294e47c9f47188a737
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9542590ac5be0149b8e9dd0783364df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6e161379e5e42b49bfef51a6c4319c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 312b195670309eb4fa6c49ea98a820f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc1515ab76e54f068e2f2207940fab32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01614664b831546d2ae94a42149d80ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23c1ce4fb46143f46bc5cb5224c934f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Investments/Rolnicza21/Apartments/A-1-1.unity
+- Assets/Investments/Rolnicza21/Apartments/B-1-3.unity
+- Assets/Investments/Rolnicza21/Apartments/B-0-2.unity
+- Assets/Investments/Rolnicza21/Apartments/C-0-1.unity
+- Assets/Investments/Rolnicza21/Apartments/C-1-2.unity
+- Assets/Investments/Rolnicza21/Apartments/B-2-1.unity
+- Assets/Investments/Rolnicza21/Apartments/A-0-1.unity
+- Assets/Investments/Rolnicza21/Apartments/B-1-1.unity
+- Assets/Investments/Rolnicza21/Apartments/A-1-2.unity
+- Assets/Investments/Rolnicza21/Apartments/B-1-2.unity
+- Assets/Investments/Rolnicza21/Apartments/C-0-3.unity
+- Assets/Investments/Rolnicza21/Apartments/A-0-3.unity
+- Assets/Investments/Rolnicza21/Apartments/A-0-2.unity
+- Assets/Investments/Rolnicza21/Apartments/C-0-2.unity
+- Assets/Investments/Rolnicza21/Apartments/C-1-1.unity
+- Assets/Investments/Rolnicza21/Apartments/A-2-2.unity
+- Assets/Investments/Rolnicza21/Apartments/B-0-1.unity
+- Assets/Investments/Rolnicza21/Apartments/B-1-4.unity
+- Assets/Investments/Rolnicza21/Apartments/A-2-1.unity
+Dependencies: []

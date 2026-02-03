@@ -1,0 +1,12 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.6f1
+CRC: 2814478922
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: unifiedraytracing
+      Dependencies: {}
+    Info_1:
+      Name: rolnicza21/apartments
+      Dependencies: {}
